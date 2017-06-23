@@ -1,0 +1,32 @@
+{
+  "name": "guiado-gulp",
+  "version": "1.0.0",
+  "description": "Ejercicio guiado de gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizzie136/guiado-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "JavaScript",
+    "npm"
+  ],
+  "author": "Laboratoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizzie136/guiado-gulp/issues"
+  },
+  "homepage": "https://github.com/lizzie136/guiado-gulp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
